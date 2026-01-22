@@ -9,5 +9,11 @@ var managers = {
   },
   "investigators" : {
     "branchLeader" : "Kaden"
+  },
+  "bodyGuards" : {
+    "branchLeader" : "Ian",
+    "bg1" : "Reese",
+    "bg2" : "Om",
+    "bg3" : "Zaki"
   }
 };

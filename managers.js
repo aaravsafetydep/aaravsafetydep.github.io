@@ -5,5 +5,9 @@ var managers = {
   },
   "murderPrevention" : {
     "branchLeader" : "Alex"
-  }
+  },
+  "investigators" : {
+    "branchLeader" : "Kaden",
+    "investigator1" : 
+  },
 };

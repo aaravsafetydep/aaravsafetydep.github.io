@@ -13,9 +13,10 @@
       <button id="adminBtn">ADMIN EDITOR</button>
 
       <script>
-      let allowedUsers = ["Nokt99","draculis888","aaravsafetydep"]
-      let currentUser = "PUT_CURRENT_GITHUB_USERNAME_HERE"
-      let editorOn = false
+        //So unsecure
+      let allowedUsers = ["Nokt99","draculis888","aaravsafetydep"];
+      let currentUser = "PUT_CURRENT_GITHUB_USERNAME_HERE"; //I can just bypass the security with a bookmarklet.
+      let editorOn = false;
 
       document.getElementById("adminBtn").onclick = function() {
         if (allowedUsers.includes(currentUser)) {
